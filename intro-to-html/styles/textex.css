@@ -1,0 +1,37 @@
+p {
+  font-family: Arial;
+  text-align: center;
+}
+.new {
+  color: rgb(251, 93, 30);
+  margin-bottom: 0;
+}
+.mac {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 7px;
+  margin-bottom: 0;
+}
+.super {
+  font-weight: bold;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.fro {
+  color: rgb(96, 95, 95);
+  margin-top: 0;
+}
+.buy {
+  
+  background-color: blue;
+  border: none;
+  color: white;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 27px;
+  font-weight: bold;
+  cursor: pointer;
+}

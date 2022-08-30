@@ -1,0 +1,24 @@
+p {
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.aa {
+  font-size: 30px;
+  margin-bottom: 4px;
+}
+.usd {
+  color: grey;
+  font-size: 18px;
+}
+.bb {
+  color: rgb(13, 159, 13);
+}
+.aft {
+  color: rgb(151, 151, 151);
+  margin-top: 4px;
+}
+.ex {
+  color: red;
+}

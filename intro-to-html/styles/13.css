@@ -1,0 +1,55 @@
+div {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.kutu {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+  width: 400px;
+  margin-top: 20px;
+ 
+}
+.all {
+  font-size: 12px;
+  color: rgb(113, 112, 112);
+  margin-left: 10px;
+  
+}
+.email{
+  align-items: center;
+  display: flex;
+   flex-direction: row;
+   margin-bottom: 23px;
+}
+.picture {
+  margin-right: 9px;
+}
+.send-pic {
+ border-radius: 45px;
+ width: 45px;
+ height: 45px;
+}
+.kişi {
+  display: flex;
+  flex-direction: row;
+}
+.name{
+  font-weight: bold;
+  font-size: 16px;
+
+}
+.time {
+  padding-left: 140px;
+  font-size: 14px;
+  color: rgb(113, 112, 112);
+}
+.konu {
+  font-size: 15px;
+  font-weight: bold;
+}
+.metin{
+  font-size: 15px;
+  color: rgb(113, 112, 112);
+}

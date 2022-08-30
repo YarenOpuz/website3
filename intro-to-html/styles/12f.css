@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: purple;
+  align-items: center;
+  padding-left: 14px;
+  padding-right: 14px;
+}
+.left {
+  color: white;
+  font-weight: bold;
+ 
+}
+.search-bar {
+  width: 500px;
+ border: none;
+ margin-top: 12px;
+ margin-bottom: 12px;
+ height: 30px;
+ border-radius: 15px;
+ padding-left: 20px;
+  
+}
+.right {
+  background-color: rgb(120, 82,178);
+  color: white;
+  border-radius: 3px;
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 12px;
+  padding-right: 12px;
+
+}

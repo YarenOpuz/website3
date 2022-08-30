@@ -1,0 +1,15 @@
+.mod {
+  font-size: 40px;
+  font-family: Montserrat;
+  text-align: center;
+  
+}
+.ord {
+  font-size: 27px;
+  font-family: Montserrat;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.touch {
+  text-decoration: underline;
+}

@@ -1,0 +1,44 @@
+.dog {
+  width: 170px;
+  height: 170px;
+  object-position: center;
+  display: block;
+  
+}
+.name {
+  display:block;
+  font-family: Roboto;
+  font-weight: bolder;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-left: 3px;
+ 
+}
+.profile {
+  width: 170px;
+  height: 280px;
+  display: inline-block;
+  vertical-align: top;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  margin-right: 15px;
+
+  
+}
+.add {
+  background-color: rgb(61, 132, 255);
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 12px;
+  width: 100px;
+  height: 30px;
+  border: none;
+  margin-top: 7px;
+  margin-left: 3px;
+}
+.friend {
+  color: rgb(171, 169, 169);
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-left: 3px;
+}
